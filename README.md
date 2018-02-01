@@ -1,5 +1,5 @@
 # ECG-on-Teensy
-### *Credit to: Liyuan Wang, Dinggao Pan*
+### *Credit to: L.Wang, Dinggao Pan*
 This is the final project of EE474 in University of Washington, Spring 2017.
 The project runs on Teensy, with an extra analog front end. Both of the detailed circuitry design and the 
 actual layout of the analog front end is attached. 
