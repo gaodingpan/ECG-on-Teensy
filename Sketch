@@ -1,0 +1,16 @@
+uint16_t max;
+uint16_t min;
+long maxTime;
+long minTime;
+
+if (x > max) {
+  max = x;
+  maxTime = millis();
+}
+
+if (x < min) {
+  min = x;
+  minTime = millis();
+}
+
+QRS = (minTime - maxTime) * 2;
